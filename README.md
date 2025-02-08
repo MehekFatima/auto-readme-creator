@@ -113,20 +113,7 @@ Contributions are welcome! If you'd like to contribute to `auto-readme-creator`,
 
 1. **Submit Issues**: Report bugs or request features by opening an issue on [GitHub Issues](https://github.com/MehekFatima/auto-readme-creator/issues).
 
-2. **Create Pull Requests**: Submit changes by creating a pull request. Please ensure your changes are well-documented and include tests if applicable.<!-- START AUTO-README-CREATOR.TEST SECTION -->
-# auto-readme-creator.test
-
-## __tests__/auto-readme-creator.test.js
-
-## Helper function to create a test file with specific content
-
-## Helper function to clean up test files
-
-## Run the auto-readme-creator script
-
-<!-- END AUTO-README-CREATOR.TEST SECTION -->
-
-<!-- START INDEX SECTION -->
+2. **Create Pull Requests**: Submit changes by creating a pull request. Please ensure your changes are well-documented and include tests if applicable.<!-- START INDEX SECTION -->
 # index
 
 ## Function to extract comments based on file type
@@ -153,7 +140,7 @@ Contributions are welcome! If you'd like to contribute to `auto-readme-creator`,
 
 ## Replace existing content for the file if it already exists
 
-## Append new content
+## Append new content at the end
 
 ## Write the updated content back to README.md
 
