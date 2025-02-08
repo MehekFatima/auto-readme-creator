@@ -113,40 +113,4 @@ Contributions are welcome! If you'd like to contribute to `auto-readme-creator`,
 
 1. **Submit Issues**: Report bugs or request features by opening an issue on [GitHub Issues](https://github.com/MehekFatima/auto-readme-creator/issues).
 
-2. **Create Pull Requests**: Submit changes by creating a pull request. Please ensure your changes are well-documented and include tests if applicable.<!-- START INDEX SECTION -->
-# index
-
-## Function to extract comments based on file type
-
-## Parse JavaScript/TypeScript code with Babel
-
-## Extract Python comments (lines starting with #)
-
-## Extract CSS/HTML comments (/* ... */ for CSS and <!-- ... --> for HTML)
-
-## Extract Java comments (// ... and /* ... */)
-
-## Function to generate markdown from comments
-
-## Extract the base name without extension for section title
-
-## Treat comments starting with ~ as paragraphs under the last heading
-
-## Use comments without ~ as headings
-
-## Function to update the README with content from each file
-
-## Check if README exists
-
-## Replace existing content for the file if it already exists
-
-## Append new content at the end
-
-## Write the updated content back to README.md
-
-## Function to watch files and generate README
-
-## Get the file extension
-
-<!-- END INDEX SECTION -->
-
+2. **Create Pull Requests**: Submit changes by creating a pull request. Please ensure your changes are well-documented and include tests if applicable.
